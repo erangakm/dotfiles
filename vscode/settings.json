@@ -1,0 +1,11 @@
+{
+  "tslint.autoFixOnSave": true,
+  "editor.tabSize": 2,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "javascript.preferences.quoteStyle": "double",
+  "typescript.preferences.quoteStyle": "double",
+  "ruby.intellisense": "rubyLocate",
+  "csv-preview.lineNumbers": "ordinal",
+}
