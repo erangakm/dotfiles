@@ -7,5 +7,5 @@
   "javascript.preferences.quoteStyle": "double",
   "typescript.preferences.quoteStyle": "double",
   "ruby.intellisense": "rubyLocate",
-  "csv-preview.lineNumbers": "ordinal",
+  "csv-preview.lineNumbers": "ordinal"
 }
