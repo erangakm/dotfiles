@@ -10,7 +10,10 @@ sudo -v;
 . install-vscode.sh;
 
 sudo -v;
-. install-iTerm2.sh
+. install-iTerm2.sh;
+
+sudo -v;
+. install-zsh.sh
 
 sudo -v;
 . install-rectangle.sh;
