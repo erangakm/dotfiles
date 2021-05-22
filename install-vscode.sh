@@ -18,6 +18,6 @@ code --install-extension jpoissonnier.vscode-styled-components
 
 # Copy preference files.
 rm ~/Library/Application\ Support/Code/User/settings.json
-cp ./vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
+cp ./Preferences/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
 
-cp ./vscode/keybindings.json ~/Library/Application\ Support/Code/User/keybindings.json
+cp ./Preferences/vscode/keybindings.json ~/Library/Application\ Support/Code/User/keybindings.json
